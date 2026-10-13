@@ -140,4 +140,4 @@ fashionmnist-resnet50-pytorch/
 
 ## License
 
-No license has been selected yet. Add a license before explicitly granting others permission to reuse or redistribute this project.
+No license has been selected yet.
