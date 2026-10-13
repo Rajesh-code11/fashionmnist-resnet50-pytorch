@@ -1,0 +1,28 @@
+@'
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Downloaded datasets
+data/
+
+# TensorBoard logs
+runs/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+'@ | Set-Content -Path "$project\.gitignore" -Encoding utf8
